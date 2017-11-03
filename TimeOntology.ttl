@@ -12,7 +12,7 @@
 @base <http://www.ontologyrepository.com/CommonCoreOntologies/Mid/TimeOntology> .
 
 <http://www.ontologyrepository.com/CommonCoreOntologies/Mid/TimeOntology> rdf:type owl:Ontology ;
-                                                                           owl:imports <http://www.ontologyrepository.com/CommonCoreOntologies/Upper/ExtendedRelationOntology> ;
+                                                                           owl:imports <http://www.ontologyrepository.com/CommonCoreOntologies/Mid/ExtendedRelationOntology> ;
                                                                            cco:content_license "The Creative Commons BY 3.0 License (https://creativecommons.org/licenses/by/3.0/)."^^xsd:string ;
                                                                            owl:versionInfo "August 1, 2017"^^xsd:string ;
                                                                            cco:code_license "The 3-Clause BSD License (https://opensource.org/licenses/BSD-3-Clause)."^^xsd:string ;

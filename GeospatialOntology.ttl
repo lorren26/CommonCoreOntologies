@@ -10,7 +10,7 @@
 @prefix rdfs: <http://www.w3.org/2000/01/rdf-schema#> .
 
 <http://www.ontologyrepository.com/CommonCoreOntologies/Mid/GeospatialOntology> a owl:Ontology ;
-	owl:imports <http://www.ontologyrepository.com/CommonCoreOntologies/Upper/ExtendedRelationOntology> ;
+	owl:imports <http://www.ontologyrepository.com/CommonCoreOntologies/Mid/ExtendedRelationOntology> ;
 	owl:versionInfo "COPYRIGHT © 2015 CUBRC, Inc."^^xsd:string ;
 	rdfs:comment "This ontology is designed to represent sites, spatial regions, and other entities, especially those that are located near the surface of Earth, as well as the relations that hold between them."^^xsd:string ;
 	owl:versionInfo "August 1, 2017"^^xsd:string , "Version 1.0.1"^^xsd:string ;
